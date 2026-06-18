@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+notaireBIENVENU.be	TRUE	/	FALSE	1999999999	PHPSESSID	09fd021d6cbe7eebc645e2712e49ae76
+
